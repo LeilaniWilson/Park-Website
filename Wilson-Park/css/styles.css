@@ -1,0 +1,106 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #63F;
+	background-image: url(../images/Nature%20theme%20background.jpg);
+	background-repeat: repeat;
+}
+#container {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #9CF;
+	background-color: #9CF;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+}
+#header {
+	font-size: 55px;
+	font-style: italic;
+	color: #609;
+	background-image: url(../images/Yellowstone%20wildlife%202.jpg);
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: left top;
+	border: thin solid #69F;
+	font-family: Verdana, Geneva, sans-serif;
+	vertical-align: bottom;
+	background-color: #F9C;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#content {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: italic;
+	color: #000;
+	background-color: #9FF;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+#content a:visited {
+	color: #99F;
+	background-color: #93F;
+}
+
+#content p {
+	padding: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	text-align: center;
+}
+
+#footer {
+	font-style: italic;
+	color: #60F;
+	text-decoration: underline;
+	font-size: 16px;
+	text-align: center;
+}
+#nav {
+	font-size: 18px;
+	color: #60F;
+	text-decoration: underline;
+	text-align: center;
+}
+a {
+	color: #60F;
+	text-decoration: underline;
+	text-align: center;
+}
+#container #footer ##nav {
+	text-align: center;
+}
+#container #nav a:hover {
+	color: #C6C;
+	background-color: #F9F;
+}
+li {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	list-style-type: circle;
+}
+.Color {
+	color: #F3C;
+}
+
+img {
+	margin: 0px;
+	padding: 0px;
+}
+h1 {
+	font-style: normal;
+	color: #90C;
+	text-align: center;
+}
+.center {
+	color: #93F;
+	text-align: center;
+}
+#content a:visited {
+	color: #96C;
+	text-align: left;
+}
